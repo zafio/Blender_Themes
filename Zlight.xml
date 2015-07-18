@@ -766,7 +766,7 @@
                        gp_vertex_size="3"
                        node_selected="#f15800"
                        node_active="#ffaa40"
-                       wire="#000000"
+                       wire="#030303"
                        wire_inner="#737373"
                        wire_select="#ffffff"
                        selected_text="#7f7070"
