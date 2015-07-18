@@ -157,9 +157,9 @@
           <ThemeWidgetColors outline="#191919"
                              inner="#191919ff"
                              inner_sel="#909b69ff"
-                             item="#909b69ff"
+                             item="#5f6847ff"
                              text="#adadad"
-                             text_sel="#000000"
+                             text_sel="#d6d6d6"
                              show_shaded="FALSE"
                              shadetop="10"
                              shadedown="-10">
@@ -852,8 +852,8 @@
       </ThemeLogicEditor>
     </logic_editor>
     <outliner>
-      <ThemeOutliner match="#607752"
-                     selected_highlight="#4e5039">
+      <ThemeOutliner match="#808862"
+                     selected_highlight="#434244">
         <space>
           <ThemeSpaceGeneric back="#2e2e2e"
                              title="#000000"
