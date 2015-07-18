@@ -852,10 +852,10 @@
       </ThemeLogicEditor>
     </logic_editor>
     <outliner>
-      <ThemeOutliner match="#607752"
-                     selected_highlight="#4e5039">
+      <ThemeOutliner match="#909b69"
+                     selected_highlight="#4b4a4a">
         <space>
-          <ThemeSpaceGeneric back="#2e2e2e"
+          <ThemeSpaceGeneric back="#2c2c2c"
                              title="#000000"
                              text="#afafaf"
                              text_hi="#ffffff"
