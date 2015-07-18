@@ -10,12 +10,12 @@
                           axis_y="#5cc962"
                           axis_z="#0d65dc">
         <wcol_regular>
-          <ThemeWidgetColors outline="#070707"
+          <ThemeWidgetColors outline="#191919"
                              inner="#6b6b6bff"
                              inner_sel="#333333ff"
                              item="#191919ff"
-                             text="#bbbbbb"
-                             text_sel="#dbdbdb"
+                             text="#dbdbdb"
+                             text_sel="#dfdfdf"
                              show_shaded="FALSE"
                              shadetop="-42"
                              shadedown="0">
@@ -23,10 +23,10 @@
         </wcol_regular>
         <wcol_tool>
           <ThemeWidgetColors outline="#191919"
-                             inner="#616161ff"
+                             inner="#4e4e4eff"
                              inner_sel="#424242ff"
                              item="#191919ff"
-                             text="#eeeeee"
+                             text="#d4d4d4"
                              text_sel="#dbdbdb"
                              show_shaded="FALSE"
                              shadetop="15"
@@ -34,7 +34,7 @@
           </ThemeWidgetColors>
         </wcol_tool>
         <wcol_radio>
-          <ThemeWidgetColors outline="#000000"
+          <ThemeWidgetColors outline="#191919"
                              inner="#313131ff"
                              inner_sel="#909b69ff"
                              item="#dbdbdbff"
@@ -46,7 +46,7 @@
           </ThemeWidgetColors>
         </wcol_radio>
         <wcol_text>
-          <ThemeWidgetColors outline="#0a0a0a"
+          <ThemeWidgetColors outline="#191919"
                              inner="#3a3a3aff"
                              inner_sel="#424242ff"
                              item="#585858ff"
@@ -58,7 +58,7 @@
           </ThemeWidgetColors>
         </wcol_text>
         <wcol_option>
-          <ThemeWidgetColors outline="#1b1b1b"
+          <ThemeWidgetColors outline="#191919"
                              inner="#303030ff"
                              inner_sel="#313131ff"
                              item="#ffffffff"
@@ -94,7 +94,7 @@
           </ThemeWidgetColors>
         </wcol_num>
         <wcol_numslider>
-          <ThemeWidgetColors outline="#1b1b1b"
+          <ThemeWidgetColors outline="#191919"
                              inner="#2c2c2cff"
                              inner_sel="#1b1b1bff"
                              item="#3d3d3dff"
@@ -118,7 +118,7 @@
           </ThemeWidgetColors>
         </wcol_box>
         <wcol_menu>
-          <ThemeWidgetColors outline="#181818"
+          <ThemeWidgetColors outline="#191919"
                              inner="#3a3a3aff"
                              inner_sel="#3b3b3bff"
                              item="#dbdbdbff"
@@ -154,12 +154,12 @@
           </ThemeWidgetColors>
         </wcol_menu_back>
         <wcol_pie_menu>
-          <ThemeWidgetColors outline="#0a0a0a"
+          <ThemeWidgetColors outline="#191919"
                              inner="#191919ff"
-                             inner_sel="#8c8c8cff"
-                             item="#2d2d2dff"
+                             inner_sel="#909b69ff"
+                             item="#909b69ff"
                              text="#adadad"
-                             text_sel="#dbdbdb"
+                             text_sel="#000000"
                              show_shaded="FALSE"
                              shadetop="10"
                              shadedown="-10">
