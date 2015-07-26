@@ -882,20 +882,20 @@
       </ThemeOutliner>
     </outliner>
     <info>
-      <ThemeInfo info_selected="#99a34e"
-                 info_selected_text="#ffffff"
-                 info_error="#dc0000"
-                 info_error_text="#000000"
-                 info_warning="#dc8060"
+      <ThemeInfo info_selected="#909b69"
+                 info_selected_text="#000000"
+                 info_error="#9c1f00"
+                 info_error_text="#e2e2e2"
+                 info_warning="#dcb400"
                  info_warning_text="#000000"
-                 info_info="#00aa00"
-                 info_info_text="#000000"
+                 info_info="#4e4e4e"
+                 info_info_text="#e0e0e0"
                  info_debug="#c4c4c4"
                  info_debug_text="#000000">
         <space>
-          <ThemeSpaceGeneric back="#3f3f3f"
-                             title="#000000"
-                             text="#e0e0e0"
+          <ThemeSpaceGeneric back="#272727"
+                             title="#968f99"
+                             text="#cacaca"
                              text_hi="#ffffff"
                              header="#464646"
                              header_text="#888888"
@@ -911,7 +911,7 @@
             <panelcolors>
               <ThemePanelColors header="#35353500"
                                 back="#7272727f"
-                                show_header="TRUE"
+                                show_header="FALSE"
                                 show_back="FALSE">
               </ThemePanelColors>
             </panelcolors>
